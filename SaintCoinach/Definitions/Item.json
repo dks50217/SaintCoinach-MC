@@ -212,7 +212,7 @@
     },
     {
       "index": 28,
-      "name": "IsDyeable"
+      "name": "DyeCount"
     },
     {
       "index": 29,
@@ -277,6 +277,10 @@
     {
       "index": 40,
       "name": "Level{Equip}"
+    },
+    {
+      "index": 41,
+      "name": "RequiredPvpRank"
     },
     {
       "index": 42,

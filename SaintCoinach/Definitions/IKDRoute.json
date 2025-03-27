@@ -34,14 +34,14 @@
     },
     {
       "index": 9,
-      "name": "TerritoryType",
+      "name": "ContentFinderCondition",
       "converter": {
         "type": "link",
-        "target": "TerritoryType"
+        "target": "ContentFinderCondition"
       }
     },
     {
-      "index": 10,
+      "index": 11,
       "name": "Name"
     }
   ]
